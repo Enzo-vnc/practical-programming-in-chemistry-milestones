@@ -11,9 +11,9 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 |------|---------------------------------------------|--------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/enzo-vnc |
 | 1    | Github Profile Page Updated                 | https://github.com/enzo-vnc/enzo-vnc |
-| 1    | Commit and Push Change from Command Line    | https://github.com/enzo-vnc/ppchem/commit/`commit-nr` |
-| 1    | Create a New Branch                         | https://github.com/enzo-vnc/ppchem/tree/`new-branch-name` |
-| 1    | Create a conda environment                  | https://github.com/enzo-vnc/ppchem/blob/`branch-name`/`env.yml` |
+| 1    | Commit and Push Change from Command Line    | https://github.com/enzo-vnc/ppchem/commit/commit-nr |
+| 1    | Create a New Branch                         | https://github.com/enzo-vnc/ppchem/tree/new-branch-name |
+| 1    | Create a conda environment                  | https://github.com/enzo-vnc/ppchem/blob/branch-name/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/enzo-vnc/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
